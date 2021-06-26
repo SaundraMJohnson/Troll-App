@@ -17,3 +17,33 @@ and {weight} pounds heavy?""")
 long paragraphs about life, thoughts and things to think about. I want the app to be funny and also motivating and is meant to be deleted eventually.
 Also adding the option to hear things about trolling Robert but you can send the app to friends and it will do the same thing but personalize to them or compare them to Robert.
 Trolling which could be anything from false rumors, fears, just anything to get a reaction. Not meant to bash but...yes bash. #
+
+# Discovered a script I could write and is based on an text adventure game. This game would be very intensive and I don't think I want people to keep texting answers,
+I want to keep it one page, responsive, simple. Just asking some questions and merely informational and educational.
+
+from sys import argv
+
+script, user_name, dog = argv
+answer = '> '
+
+print(f"Hi {user_name} & {dog}, I'm the {script} script.")
+print("I'd like to ask you a few questions.")
+print(f"Do you like me {user_name}?")
+likes = input(answer)
+
+print(f"'Where do you live {user_name}?")
+lives = input(answer)
+
+print("What kind of computer do you have?")
+computer = input(answer)
+
+print(f"What kind of dog is {dog}?")
+animal = input(answer)
+
+print(f"""
+Alright, so you said {likes} about liking me.
+You live in {lives}. Not sure where that is.
+And you have a {computer} computer. Trash.
+While having {dog}, the smelly {animal}?
+Good luck in life buddy.
+""")
