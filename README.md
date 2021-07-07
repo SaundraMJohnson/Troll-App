@@ -8,4 +8,4 @@ You have to be willing to upgrade yourself and since I'm not little anymore...I 
 
 I am creating something special here, so if anyone has any thoughts or features, please leave in the comments as I make this app a masterpiece.
 
-I intend to update this for awhile until it becomes substansial enough to stop being funny.
+I intend to update this for awhile until it becomes substancial enough to stop being funny.
