@@ -13,11 +13,6 @@ you're {age} years old,
 {height} inches tall, 
 and {weight} pounds heavy?""")
 
-# This is the beginning of the troll app and I believe that I want it to just do a continous loop of asking and entering questions. Maybe eventually saying some nice things,
-long paragraphs about life, thoughts and things to think about. I want the app to be funny and also motivating and is meant to be deleted eventually.
-Also adding the option to hear things about trolling Robert but you can send the app to friends and it will do the same thing but personalize to them or compare them to Robert.
-Trolling which could be anything from false rumors, fears, just anything to get a reaction. Not meant to bash but...yes bash. #
-
 # Discovered a script I could write and is based on an text adventure game. This game would be very intensive and I don't think I want people to keep texting answers,
 I want to keep it one page, responsive, simple. Just asking some questions and merely informational and educational.
 
